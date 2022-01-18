@@ -17,21 +17,16 @@ a series of questions about the following simple scenario:
 
 ***you should be able to put together a consistent set of axioms for the limited questions posed here.***
 
-1. *Does John now have at least two bagels?* **[Yes]**
-
-2. *Did John buy some bread?* **[Yes]**
-
-3. *If Mary was buying bread at the same time as John, did he see her?*
-
-4. *Are the bananas made in the bakery?* **[No]**
-
-5. *What is John going to do with the bagels?* **[Eat them]**
-
-6. *Does UTD Bakery sell scones?* **[Yes]**
-
-7. *Did John bring some money or a credit card to the bakery?* **[Yes]**
-
-8. *Does John have less money after going to the bakery?* **[Yes]**
+| ***Question*** | ***Answer*** |
+| --- | --- |
+| *Does John now have at least two bagels?* | **[Yes]** |
+| *Did John buy some bread?* | **[Yes]** |
+| *If Mary was buying bread at the same time as John, did he see her?* |
+| *Are the bananas made in the bakery?* | **[No]** |
+| *What is John going to do with the bagels?* | **[Eat them]** |
+| *Does UTD Bakery sell scones?* | **[Yes]** |
+| *Did John bring some money or a credit card to the bakery?* | **[Yes]** |
+| *Does John have less money after going to the bakery?* | **[Yes]** |
 
 <br><br>
 

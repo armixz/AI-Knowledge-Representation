@@ -17,7 +17,7 @@ a series of questions about the following simple scenario:
 
 ***you should be able to put together a consistent set of axioms for the limited questions posed here.***
 
-| ***Question*** | ***Answer*** |
+| **Question** | **Answer** |
 | --- | --- |
 | *Does John now have at least two bagels?* | **[Yes]** |
 | *Did John buy some bread?* | **[Yes]** |

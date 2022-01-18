@@ -1,7 +1,8 @@
+# AI Knowledge Representation
+Knowledge Representation paradigm to create a simple question-answering tool.
 
 ![screen-gif](mind_map_500px.png)
 
-<br>
 
 # Introduction and Problem Definition
 

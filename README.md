@@ -51,9 +51,9 @@ a series of questions about the following simple scenario:
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ***Human*** | John | Mary | | | | | |
 | ***Weekdays*** | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
-| ***Items*** | Bagels | bread | Buns | Cinnamon_rolls | Doughnuts | Coffee | Bananas | Apples | Cookies | Muffins | Scones |
+| ***Items*** | Bagels | bread | Buns | Scones | Cinnamon_rolls | Doughnuts | Coffee | Bananas | Apples | Cookies | Muffins |
 | ***Rack #*** | Bagels#1.1 | bread#1.2 | Buns#1.3 | Scones#1.3 | Cinnamon#1.4 | Doughnuts#1.5 | Coffee#1.6 | Bananas#1.7 | Apples#1.8 | Cookies#1.9 | Muffins#1.10 |
-|  ***Growing naturally*** | Bananas |
+|  ***Growing_naturally*** | Bananas |
 | ***shopping cart*** | John_has_a loaf_of_bread | John_has_two dozen_bagels |
 | ***Money*** | Cash | Card |
 | ***Yesterday*** | Wednesday |
